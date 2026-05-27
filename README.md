@@ -69,7 +69,7 @@ To keep the profile looking incredibly clean and modern, the tech stack is categ
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/MihisaraNet">
-          <img src="https://github-readme-stats.vercel.app/api?username=MihisaraNet&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0a0a0c" alt="Mihisara's GitHub Stats" width="400px"/>
+          <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MihisaraNet&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0a0a0c" alt="Mihisara's GitHub Stats" width="400px"/>
         </a>
       </td>
       <td align="center" valign="top">
@@ -82,7 +82,7 @@ To keep the profile looking incredibly clean and modern, the tech stack is categ
       <td colspan="2" align="center">
         <br/>
         <a href="https://github.com/MihisaraNet">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihisaraNet&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0a0a0c" alt="Top Languages" width="450px" />
+          <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MihisaraNet&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0a0a0c" alt="Top Languages" width="450px" />
         </a>
       </td>
     </tr>
