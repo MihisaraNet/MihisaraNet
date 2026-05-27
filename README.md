@@ -91,6 +91,51 @@ To keep the profile looking incredibly clean and modern, the tech stack is categ
 
 ---
 
+### 📌 Featured Projects
+
+Here are some of the key projects I've built or am currently working on:
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🚀 Personal Portfolio</h3>
+        <p align="left">
+          A sleek, modern developer portfolio designed to showcase my skills, projects, and contact info. Highly interactive with subtle micro-animations.
+        </p>
+        <p align="left">
+          <strong>🛠 Tech Stack:</strong> React, Tailwind CSS, Vercel
+        </p>
+        <p align="left">
+          <a href="https://mihisara-portfolio.vercel.app">🌐 Live Demo</a> | 
+          <a href="https://github.com/MihisaraNet">💻 Source Code</a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📦 Full-Stack E-Commerce</h3>
+        <p align="left">
+          A fully functional e-commerce platform featuring secure payment gateways, user authentication, inventory management, and a robust admin dashboard.
+        </p>
+        <p align="left">
+          <strong>🛠 Tech Stack:</strong> Spring Boot, React, MongoDB, Redux
+        </p>
+        <p align="left">
+          <a href="https://github.com/MihisaraNet">🚧 Under Development</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ✨ Inspiring Thought
+
+> "First, solve the problem. Then, write the code." 
+> <br/>*— John Johnson*
+
+---
+
 ### 🌐 Let's Connect!
 
 I'm always open to discussing web development, cool open-source projects, or potential internship opportunities! Let's get in touch.
