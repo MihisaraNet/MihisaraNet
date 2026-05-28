@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MihisaraNet">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Isula+Mihisara+👋;Full-Stack+Developer+%7C+MERN+%7C+Spring+Boot;Building+awesome+scalable+web+applications!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Isula+Mihisara;Full-Stack+Developer+%7C+MERN+%7C+Spring+Boot;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,27 +13,22 @@
 
 ### 💫 About Me
 
-I am a passionate **Full-Stack Developer** in progress, deeply committed to create highly performant, accessible, and beautiful web applications. With a solid foundation in the **MERN Stack** and **Spring Boot**, I bridge the gap between robust backend services and smooth, interactive frontends.
-
-- 🎓 **Education:** Undergraduate Student based in 🇱🇰 **Sri Lanka**
-- 🚀 **Current Focus:** Building real-world full-stack projects & exploring system architecture
-- 🌱 **Learning & Growing:** Mastering advanced React patterns, Spring Boot microservices, and system scaling
-- 💼 **Career Goal:** Actively seeking exciting **internship opportunities** in software engineering
+- 🎓 Undergraduate at SLIIT 
+- ⚛️ Tech Stack: React • Node.js • Spring Boot • Python
+- 🚀 Building real-world projects & improving through practice
+- 🌱 Continuously learning new technologies
+- 💼 Seeking internship opportunities in software engineering
 
 ---
 
-### 🛠️ Tech Stack (Sleek Cyberpunk/Neon Theme)
-
-To keep the profile looking incredibly clean and modern, the tech stack is categorized and styled with a cohesive color palette.
+### 🛠️ Tech Stack
 
 #### 💻 Languages
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /></a>
   <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://html.spec.whatwg.org"><img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-</p>
+  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
 
 #### ⚙️ Frontend & Backend Frameworks
 <p align="left">
@@ -69,70 +64,16 @@ To keep the profile looking incredibly clean and modern, the tech stack is categ
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/MihisaraNet">
-          <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MihisaraNet&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0a0a0c&cache_seconds=1800" alt="Mihisara's GitHub Stats" width="400px"/>
-        </a>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://github.com/MihisaraNet">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihisaraNet&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0a0a0c&cache_seconds=1800" alt="GitHub Streak" width="400px"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <a href="https://github.com/MihisaraNet">
-          <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MihisaraNet&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0a0a0c&cache_seconds=1800" alt="Top Languages" width="450px" />
+          <img 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=MihisaraNet&theme=tokyonight&hide_border=true&stroke=FF6B00&ring=FF8C00&fire=FF4500&currStreakLabel=FFA500" 
+            alt="GitHub Streak"
+          />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
----
-
-### 📌 Featured Projects
-
-Here are some of the key projects I've built or am currently working on:
-
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🚀 Personal Portfolio</h3>
-        <p align="left">
-          A sleek, modern developer portfolio designed to showcase my skills, projects, and contact info. Highly interactive with subtle micro-animations.
-        </p>
-        <p align="left">
-          <strong>🛠 Tech Stack:</strong> React, Tailwind CSS, Vercel
-        </p>
-        <p align="left">
-          <a href="https://mihisara-portfolio.vercel.app">🌐 Live Demo</a> | 
-          <a href="https://github.com/MihisaraNet">💻 Source Code</a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📦 Full-Stack E-Commerce</h3>
-        <p align="left">
-          A fully functional e-commerce platform featuring secure payment gateways, user authentication, inventory management, and a robust admin dashboard.
-        </p>
-        <p align="left">
-          <strong>🛠 Tech Stack:</strong> Spring Boot, React, MongoDB, Redux
-        </p>
-        <p align="left">
-          <a href="https://github.com/MihisaraNet">🚧 Under Development</a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### ✨ Inspiring Thought
-
-> "First, solve the problem. Then, write the code." 
-> <br/>*— John Johnson*
 
 ---
 
@@ -140,7 +81,7 @@ Here are some of the key projects I've built or am currently working on:
 
 I'm always open to discussing web development, cool open-source projects, or potential internship opportunities! Let's get in touch.
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/isula-mihisara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/MihisaraNet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:isuimk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -150,20 +91,8 @@ I'm always open to discussing web development, cool open-source projects, or pot
 
 <!-- ================= FOOTER ================= -->
 <br />
-<p align="center">
-  <img src="https://capsule-render.herokuapp.com/type=waving&color=00F7FF&height=60&section=footer" width="100%" alt="Footer Banner" />
+
+<p align="right">
+  <sub>© 2026 Isula Mihisara. All Rights Reserved.</sub>
 </p>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left" width="33%">
-      <sub>Made with 💻 & ☕ in <b>Sri Lanka 🇱🇰</b></sub>
-    </td>
-    <td align="center" width="34%">
-      <sub>© 2026 Isula Mihisara. All Rights Reserved.</sub>
-    </td>
-    <td align="right" width="33%">
-      <a href="#"><sub><b>🔺 Back to Top</b></sub></a>
-    </td>
-  </tr>
-</table>
