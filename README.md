@@ -10,7 +10,7 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
 - 🎓 Undergraduate at SLIIT 
 - ⚛️ Tech Stack: React • Node.js • Spring Boot • Python
