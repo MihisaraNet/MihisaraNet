@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MihisaraNet">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Isula+Mihisara;Full-Stack+Developer+%7C+MERN+%7C+Spring+Boot;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Isula+Mihisara+👋;Full-Stack+Developer+%7C+MERN+%7C+Spring+Boot;Building+awesome+scalable+web+applications!;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,23 +13,26 @@
 
 ### 💫 About Me
 
-- 🎓 Undergraduate at **SLIIT**
-- 💻 Passionate Full-Stack Developer
-- ⚛️ Tech Stack: React • Node.js • Spring Boot • Python
-- 🚀 Building real-world projects & improving through practice
-- 🌱 Continuously learning new technologies
-- 💼 Seeking internship opportunities in software engineering
+I am a passionate **Full-Stack Developer** in progress, deeply committed to create highly performant, accessible, and beautiful web applications. With a solid foundation in the **MERN Stack** and **Spring Boot**, I bridge the gap between robust backend services and smooth, interactive frontends.
+
+- 🎓 **Education:** Undergraduate Student based in 🇱🇰 **Sri Lanka**
+- 🚀 **Current Focus:** Building real-world full-stack projects & exploring system architecture
+- 🌱 **Learning & Growing:** Mastering advanced React patterns, Spring Boot microservices, and system scaling
+- 💼 **Career Goal:** Actively seeking exciting **internship opportunities** in software engineering
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Sleek Cyberpunk/Neon Theme)
+
+To keep the profile looking incredibly clean and modern, the tech stack is categorized and styled with a cohesive color palette.
 
 #### 💻 Languages
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /></a>
   <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+  <a href="https://html.spec.whatwg.org"><img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
 </p>
 
 #### ⚙️ Frontend & Backend Frameworks
@@ -38,7 +41,7 @@
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
   <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /></a>
-  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" /></a>
+  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a>
 </p>
 
 #### 🗄️ Databases & Cloud
@@ -64,17 +67,72 @@
 <div align="center">
   <table border="0">
     <tr>
+      <td align="center" valign="top">
         <a href="https://github.com/MihisaraNet">
+          <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MihisaraNet&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0a0a0c&cache_seconds=1800" alt="Mihisara's GitHub Stats" width="400px"/>
         </a>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/MihisaraNet">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihisaraNet&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0a0a0c" alt="GitHub Streak" width="400px"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihisaraNet&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0a0a0c&cache_seconds=1800" alt="GitHub Streak" width="400px"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <a href="https://github.com/MihisaraNet">
+          <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MihisaraNet&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0a0a0c&cache_seconds=1800" alt="Top Languages" width="450px" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
+---
+
+### 📌 Featured Projects
+
+Here are some of the key projects I've built or am currently working on:
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🚀 Personal Portfolio</h3>
+        <p align="left">
+          A sleek, modern developer portfolio designed to showcase my skills, projects, and contact info. Highly interactive with subtle micro-animations.
+        </p>
+        <p align="left">
+          <strong>🛠 Tech Stack:</strong> React, Tailwind CSS, Vercel
+        </p>
+        <p align="left">
+          <a href="https://mihisara-portfolio.vercel.app">🌐 Live Demo</a> | 
+          <a href="https://github.com/MihisaraNet">💻 Source Code</a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📦 Full-Stack E-Commerce</h3>
+        <p align="left">
+          A fully functional e-commerce platform featuring secure payment gateways, user authentication, inventory management, and a robust admin dashboard.
+        </p>
+        <p align="left">
+          <strong>🛠 Tech Stack:</strong> Spring Boot, React, MongoDB, Redux
+        </p>
+        <p align="left">
+          <a href="https://github.com/MihisaraNet">🚧 Under Development</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ✨ Inspiring Thought
+
+> "First, solve the problem. Then, write the code." 
+> <br/>*— John Johnson*
 
 ---
 
@@ -89,3 +147,7 @@ I'm always open to discussing web development, cool open-source projects, or pot
 </p>
 
 ---
+
+<p align="center">
+  Made with 💻 and ☕ in Sri Lanka 🇱🇰
+</p>
