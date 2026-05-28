@@ -7,8 +7,6 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=MihisaraNet&label=PROFILE%20VIEWS&labelColor=%230f0f12&countColor=%2300f7ff&style=flat-square" alt="Profile Views" />
 </p>
-
-
 ---
 
 ### 💫 About Me
