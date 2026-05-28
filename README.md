@@ -148,6 +148,22 @@ I'm always open to discussing web development, cool open-source projects, or pot
 
 ---
 
+<!-- ================= FOOTER ================= -->
+<br />
 <p align="center">
-  Made with 💻 and ☕ in Sri Lanka 🇱🇰
+  <img src="https://capsule-render.herokuapp.com/type=waving&color=00F7FF&height=60&section=footer" width="100%" alt="Footer Banner" />
 </p>
+
+<table border="0" width="100%">
+  <tr>
+    <td align="left" width="33%">
+      <sub>Made with 💻 & ☕ in <b>Sri Lanka 🇱🇰</b></sub>
+    </td>
+    <td align="center" width="34%">
+      <sub>© 2026 Isula Mihisara. All Rights Reserved.</sub>
+    </td>
+    <td align="right" width="33%">
+      <a href="#"><sub><b>🔺 Back to Top</b></sub></a>
+    </td>
+  </tr>
+</table>
