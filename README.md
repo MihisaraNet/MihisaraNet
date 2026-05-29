@@ -63,10 +63,10 @@
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/MihisaraNet">
-          <img 
-            src="https://github-readme-streak-stats.herokuapp.com/?user=MihisaraNet&theme=tokyonight&hide_border=true&stroke=FF6B00&ring=FF8C00&fire=FF4500&currStreakLabel=FFA500" 
-            alt="GitHub Streak"
-          />
+            <img 
+    src="https://streak-stats.demolab.com?user=MihisaraNet&theme=tokyonight&hide_border=true&border_radius=12&stroke=FF6B00&ring=FF8C00&fire=FF4500&currStreakNum=FFFFFF&currStreakLabel=FFA500&sideNums=00F7FF&sideLabels=7DF9FF&dates=AAAAAA&cache_seconds=3600"
+    alt="GitHub Streak"
+  />
         </a>
       </td>
     </tr>
